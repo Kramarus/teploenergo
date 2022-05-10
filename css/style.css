@@ -1377,3 +1377,10 @@ a:focus {
 .border1 {
   border: 2px solid red;
 }
+
+.choose_section .img-box img {
+  height: 64px;
+  filter: invert(100%) sepia(7%) saturate(0%) hue-rotate(158deg)
+        brightness(108%) contrast(109%);
+}
+
