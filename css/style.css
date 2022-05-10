@@ -17,6 +17,7 @@ body {
   overflow-x: hidden;
   background-color: #02231a;
   position: relative;
+  width: 100%;
 }
 
 h1,
